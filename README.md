@@ -40,10 +40,10 @@
 
 ## 鳴謝
 
-[一點字坊](https://github.com/ichitenfont)「傳承字形部件檢校表」，「一點明體」，「一點明體異體」；
+[一點字坊](https://github.com/ichitenfont)「[傳承字形部件檢校表](https://github.com/ichitenfont/inheritedglyphs)」，[「一點明體」，「一點明體異體」](https://github.com/ichitenfont/I.Ming)；
 
-[落霞孤䳱](https://github.com/lxgw)「霞鶩致宋」，「霞鶩新致宋」；
+[落霞孤䳱](https://github.com/lxgw)「[霞鶩緻宋](https://github.com/lxgw/LxgwZhiSong)」，「[霞鶩新緻宋](https://github.com/lxgw/LxgwNeoZhiSong)」；
 
-獨秀大哥「Y 式明朝」；
+[獨秀大哥](https://github.com/Steve-Yuu)「[Y 式明朝](https://github.com/Steve-Yuu/YShiMincho)」；
 
-GuiWonder「華英明朝」。
+[GuiWonder](https://github.com/GuiWonder)「[華英明朝](https://github.com/GuiWonder/HuayingMincho)」。
