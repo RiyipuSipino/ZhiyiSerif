@@ -41,6 +41,7 @@
 </br>圖：漢字化的「ta」
 <img width="460" height="160" alt="image" src="https://github.com/user-attachments/assets/fffa9468-c775-4f30-9ef9-9944d9e5f86e" />
 </br>
+
 -- 2.100
 
 1. 修改「華、垂」部件，中橫連上，與「昔」部件相呼應（依據詳說明書）
