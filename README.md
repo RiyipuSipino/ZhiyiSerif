@@ -39,6 +39,7 @@
 3. 相應地修訂了說明書
 </br></br>圖：漢字化的「ta」
 <img width="460" height="160" alt="image" src="https://github.com/user-attachments/assets/fffa9468-c775-4f30-9ef9-9944d9e5f86e" />
+</br>
 
 -- 2.100
 
