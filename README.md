@@ -37,8 +37,8 @@
 1. 改「規」爲「䂓」，左從「矢」（依據詳說明書）
 2. 【整活】增收漢字化的「ta」
 3. 相應地修訂了說明書
+圖：漢字化的「ta」
 <img width="460" height="160" alt="image" src="https://github.com/user-attachments/assets/fffa9468-c775-4f30-9ef9-9944d9e5f86e" />
-<small>漢字化的「ta」</small>
 
 -- 2.100
 
